@@ -7,3 +7,8 @@ We can use the artificial intelligence and machine learning methods such as arti
 Table of contents:
 1. Principal Component Analysis: Keras and home made code
 Principal Component Analysis (PCA) is a dimensionality-reduction method that is typically used to transform a high-dimensional data set into a smaller-dimensional subspace prior to applying a machine learning algorithm on the data.
+
+
+
+
+KRR: Total Energy Prediction - Kernel Ridge Regression
