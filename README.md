@@ -12,5 +12,3 @@ Principal Component Analysis (PCA) is a dimensionality-reduction method that is 
 
 
 
-
-KRR: Total Energy Prediction - Kernel Ridge Regression
